@@ -4,19 +4,22 @@ This is a recipe book project that was built using django for the backend and re
 
 In order to test/use the app you should start both frontend and backend.
 
-The following instructions/commands are for windows. If you are using a different operating system you should check the compatibility of the commands respective system.
+The following instructions/commands are for windows. If you are using a different operating system you should check the compatibility of the commands in the respective system.
 
 BACKEND
 
 To start the backend you should open a terminal and run the following commands :
 
 ▷ cd path/to/RecipeBook 
+
 With this command you will navigate to the main project's directory.
 
 ▷ script/activate 
+
 Before running the server, activate the virtual environment using the command above.
 
 ▷ python manage.py runserver
+
 Finally, start the Django server.
 
 FRONTEND 

@@ -1,6 +1,11 @@
 DJANGO REACT RECIPE BOOK
 
-This is a recipe book project that was built using django for the backend and react for the frontend created with vite.
+This is a full-stack web application using Django for backend development and React for frontend development, which main goal is creating a simple recipe book.
+
+For the backend it was used Django in order to create a simple database model and also to create API endpoints for CRUD operations.
+Also, it was used React to connect the frontend with the backend of the application, display the recipes and create a user-friendly interface.
+In order to make API calls from the frontend to the backend it was used Axios.
+Finally, the database is handled by the Django's default SQLite database.
 
 In order to test/use the app you should start both frontend and backend.
 
